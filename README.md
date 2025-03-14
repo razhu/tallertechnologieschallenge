@@ -9,8 +9,10 @@ A JavaScript function to find the longest palindromic substring in a given strin
 - Early termination to skip redundant checks.
 - Edge case handling (empty strings, single characters).
 
-# Usage
+# Install dependencies
 
 npm i
+
+# Run tests
 
 npm test
