@@ -16,3 +16,5 @@ npm i
 ## Run tests
 
 npm test
+
+![result](images/test.png)
